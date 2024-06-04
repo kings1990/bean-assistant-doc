@@ -4,8 +4,9 @@ Bean Assistant is a plugin that helps you to define the bean more easily. You ne
 generate the bean definition automatically.
 
 ## Features
+You can customize the strategy in `Tools -> Bean Assistant`
 
-![](./img/bean-assistant.gif)
+![](./img/beanAssistant.gif)
 
 
 * For Spring Bean
