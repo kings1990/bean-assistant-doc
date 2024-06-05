@@ -8,16 +8,7 @@ You can customize the strategy in `Tools -> Bean Assistant`
 
 ![](./img/beanAssistant.gif)
 
-
-* For Spring Bean
-![](./img/springBean.png)
-
-* For MyBatis Bean
-![](./img/mapper.png)
-
-* For Custom Bean
-![](./img/customBean.png)
-
+![](./img/beanAssistant.png)
 
 ## Custom config
 ![](./img/configAction.png)
