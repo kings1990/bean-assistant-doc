@@ -14,3 +14,8 @@ You can customize the strategy in `Tools -> Bean Assistant`
 ![](./img/configAction.png)
 
 ![](./img/annotationConfig.png)
+
+## Tip
+It is suggested to check the following options in `Settings -> General -> Auto Import` to make the plugin work better.
+
+![](./img/autoImport.png)
